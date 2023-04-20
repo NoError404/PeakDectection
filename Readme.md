@@ -12,6 +12,10 @@
 > 
 > refernce.py 网上实现
 
+**function 分支增加**
+
+>修改各个功能
+
 **结果**
 
 ![图片](./image/fig1.jpg)
